@@ -1,7 +1,7 @@
 # htmlwebsitetemplate
 Free to use html / css website template by CodingLenny
 
-release at 28Feb
+release at 30Feb
 
 <p align="center">
   <img src="https://i.imgur.com/4M7IWwP.gif" width="350" >
