@@ -15,4 +15,3 @@ release at 30Feb
 <p align="center">
   <img src="https://i.imgur.com/4M7IWwP.gif" width="350" >
 </p>
-
